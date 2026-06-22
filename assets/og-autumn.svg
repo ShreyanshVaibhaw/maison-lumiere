@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Autumn Tasting Menu - Maison Lumière">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#faf6ef"/>
+      <stop offset="1" stop-color="#f3ecde"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="14%" r="60%">
+      <stop offset="0" stop-color="#b08d57" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#b08d57" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <rect x="40" y="40" width="1120" height="550" fill="none" stroke="#d9c39c" stroke-width="2"/>
+  <g transform="translate(100,120)">
+    <rect width="84" height="84" rx="16" fill="#5e2433"/>
+    <text x="42" y="60" font-family="Georgia, serif" font-size="52" fill="#d9c39c" text-anchor="middle">M</text>
+  </g>
+  <text x="100" y="160" font-family="Inter, system-ui, sans-serif" font-size="22" letter-spacing="6" fill="#94713f" transform="translate(110,40)">MAISON LUMIÈRE</text>
+  <text x="100" y="360" font-family="Georgia, 'Times New Roman', serif" font-size="84" fill="#22201c">Autumn Tasting Menu</text>
+  <rect x="100" y="400" width="120" height="3" fill="#b08d57"/>
+  <text x="100" y="470" font-family="Inter, system-ui, sans-serif" font-size="34" fill="#6f6a60">Seven seasonal courses</text>
+  <text x="100" y="560" font-family="Inter, system-ui, sans-serif" font-size="22" letter-spacing="3" fill="#94713f">COASTAL FRENCH · MARENPORT</text>
+</svg>
